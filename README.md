@@ -8,9 +8,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Assignment Submissions
 
-Student projects and assignments can be submitted through the [Submission Form](<DICKSON>).
+Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/3k6YWyd65bpOsY2X2).
 
-Student progress is tracked through the [Submission Tracker](<DICKSON>).
+Student progress is tracked through the [Submission Tracker](https://public.tableau.com/views/GA-DS_HK_14-HWSubmission/SubmissionSummary?:embed=y&:display_count=yes&publish=yes).
 
 ## Schedule
 
@@ -18,7 +18,7 @@ Student progress is tracked through the [Submission Tracker](<DICKSON>).
 |:---:|:---:|:---:|:---|:---|:---|
 | 0 | PRE | None | [Onboarding](https://docs.google.com/document/d/1N-zVkcYfUiWuTLCqOwNihyx9ysI8JCxfe4Vh419zzGM/) | | |
 | | | | **Unit 1 - Research Design and Exploratory Data Analysis** | | |
-| 1 | 2017-07-25 | A + D | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./projects/unit-projects/project-1)** and **[Final Project 1](./projects/final-projects/01-lightning-talk)**| |
+| 1 | 2017-07-25 | Dickson | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./projects/unit-projects/project-1)** and **[Final Project 1](./projects/final-projects/01-lightning-talk)**| |
 | 1 | 2017-07-27 | Alex | [Research Design and _pandas_](./lessons/lesson-02) | | |
 | 2 | 2017-08-01 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
 | 2 | 2017-08-03 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | **[Unit Project 3](./projects/unit-projects/project-3)** | |
@@ -43,7 +43,8 @@ Student progress is tracked through the [Submission Tracker](<DICKSON>).
 
 *(Syllabus last updated on 2016-07-18)*
 
-Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_14-Schedule/Schedule_Dashboard?:embed=y&:display_count=no&:toolbar=no).
+Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_14-Schedule/Schedule_Dashboard?:embed=y&:display_count=no&:toolbar=no)
+.
 
 ## Your Team
 
